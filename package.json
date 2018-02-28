@@ -74,8 +74,6 @@
     "hoist-non-react-statics": "^2.3.1",
     "invariant": "^2.2.2",
     "is-promise": "^2.1.0",
-    "lodash": "^4.17.3",
-    "lodash-es": "^4.17.3",
     "prop-types": "^15.5.9"
   },
   "devDependencies": {
@@ -125,6 +123,8 @@
     "webpack-bundle-analyzer": "^2.9.2"
   },
   "peerDependencies": {
+    "lodash": "^4.17.3",
+    "lodash-es": "^4.17.3",
     "react": "^15.0.0-0 || ^16.0.0-0",
     "react-redux": "^4.3.0 || ^5.0.0",
     "redux": "^3.0.0"
